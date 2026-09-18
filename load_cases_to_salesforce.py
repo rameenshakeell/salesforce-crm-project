@@ -1,6 +1,6 @@
 """
 Connects to your Salesforce org using the CLI-generated session token and
-loads the fake_cases.csv data in as real Case records.
+loads the synthetic_cases.csv data in as real Case records.
 
 Setup (one-time):
 1. Copy .env.example, rename the copy to ".env".
@@ -27,7 +27,7 @@ print("Connected to Salesforce successfully.")
 
 # Read the CSV file 
 records = []
-with open("fake_cases.csv", newline="", encoding="utf-8") as f:
+with open( "synthetic_cases.csv", newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     for row in reader:
         records.append({
@@ -39,10 +39,17 @@ with open("fake_cases.csv", newline="", encoding="utf-8") as f:
             "Origin": row["Origin"],
         })
 
-print(f"Loaded {len(records)} fake cases from the CSV, inserting into Salesforce now...")
+print(f"Loaded {len(records)} synthetic cases from the CSV, inserting into Salesforce now...")
 
-# Insert all records at once using the Bulk API (much faster than one at a time)
-results = sf.bulk.Case.insert(records)
+sf.headers.update({"Sforce-Auto-Assign": "TRUE"})
+
+results = []
+for record in records:
+    try:
+        sf.Case.create(record)
+        results.append({"success": True})
+    except Exception as e:
+        results.append({"success": False, "error": str(e)})
 
 # Count successes and failures
 successes = sum(1 for r in results if r["success"])

@@ -1,5 +1,5 @@
 """
-Generates fake but realistic support-case data 
+Generates realistic sample support-case data 
 """
 
 import csv
@@ -66,9 +66,9 @@ for i in range(NUM_ROWS):
 # ---- Write to CSV ----
 fieldnames = ["Subject", "Category__c", "Priority", "Days_Open__c", "Status", "Origin"]
 
-with open("fake_cases.csv", "w", newline="", encoding="utf-8") as f:
+with open( "synthetic_cases.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Done! Created fake_cases.csv with {NUM_ROWS} fake support cases.")
+print(f"Done! Created synthetic_cases.csv with {NUM_ROWS} synthetic support cases.")

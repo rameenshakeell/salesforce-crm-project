@@ -1,0 +1,151 @@
+Subject,Category__c,Priority,Days_Open__c,Status,Origin
+Feature not working as expected,Technical,Medium,5,Working,Web
+Question about account settings,General,Medium,8,Working,Web
+Page won't load,Technical,Medium,2,Working,Phone
+Refund not received yet,Billing,Low,7,Working,Email
+Mobile app freezing on startup,Technical,Medium,2,Working,Email
+Question about invoice amount,Billing,High,8,Working,Phone
+Payment declined at checkout,Billing,Medium,0,New,Email
+Duplicate charge on my card,Billing,High,8,Working,Web
+Question about account settings,General,High,9,Working,Phone
+Duplicate charge on my card,Billing,Medium,2,Working,Phone
+Question about account settings,General,Medium,10,Working,Phone
+Billing address needs updating,Billing,Low,5,Working,Email
+Need help navigating the dashboard,General,High,10,Working,Email
+Page won't load,Technical,Medium,4,Working,Email
+Unexpected charge on my account,Billing,High,8,Working,Phone
+Feature not working as expected,Technical,Medium,6,Working,Phone
+Mobile app freezing on startup,Technical,Medium,3,Working,Email
+Question about invoice amount,Billing,Low,1,New,Email
+General feedback about the product,General,High,10,Working,Email
+How do I update my email address,General,Low,0,New,Email
+General feedback about the product,General,Medium,4,Working,Email
+General feedback about the product,General,Medium,7,Working,Phone
+How do I update my email address,General,Low,2,Working,Email
+General feedback about the product,General,High,6,Working,Web
+Question about account settings,General,High,10,Working,Phone
+Can't reset my password,Technical,Medium,0,New,Web
+Error message when saving changes,Technical,High,8,Working,Web
+Question about account settings,General,High,10,Working,Phone
+Error message when saving changes,Technical,Low,5,Working,Email
+Question about subscription plans,General,Medium,10,Working,Phone
+App crashes on login,Technical,Medium,7,Working,Email
+App crashes on login,Technical,High,6,Working,Email
+Can't reset my password,Technical,High,7,Working,Email
+General feedback about the product,General,High,7,Working,Web
+Question about invoice amount,Billing,High,3,Working,Email
+Where can I find my order history,General,Low,9,Working,Phone
+Question about invoice amount,Billing,Low,0,New,Phone
+Payment declined at checkout,Billing,Medium,9,Working,Phone
+Question about subscription plans,General,Medium,0,New,Email
+Where can I find my order history,General,Low,3,Working,Web
+General feedback about the product,General,High,7,Working,Web
+How do I update my email address,General,Medium,6,Working,Phone
+Need help navigating the dashboard,General,High,8,Working,Phone
+Question about invoice amount,Billing,Low,1,New,Web
+Feature not working as expected,Technical,Low,1,New,Email
+Payment declined at checkout,Billing,Medium,4,Working,Email
+Question about account settings,General,Medium,7,Working,Phone
+Page won't load,Technical,High,6,Working,Web
+Need help navigating the dashboard,General,High,6,Working,Email
+General feedback about the product,General,Medium,4,Working,Phone
+Unexpected charge on my account,Billing,High,9,Working,Web
+Feature not working as expected,Technical,Low,4,Working,Phone
+Need help navigating the dashboard,General,Medium,6,Working,Phone
+Can't reset my password,Technical,Medium,5,Working,Web
+How do I update my email address,General,Low,2,Working,Phone
+How do I update my email address,General,High,8,Working,Web
+Can't reset my password,Technical,Medium,8,Working,Email
+Refund not received yet,Billing,Medium,5,Working,Phone
+General feedback about the product,General,High,7,Working,Phone
+Need help navigating the dashboard,General,High,6,Working,Phone
+Can't reset my password,Technical,High,10,Working,Email
+Mobile app freezing on startup,Technical,Low,1,New,Web
+Question about invoice amount,Billing,High,7,Working,Phone
+Question about account settings,General,High,9,Working,Web
+Payment declined at checkout,Billing,Medium,5,Working,Phone
+Billing address needs updating,Billing,Medium,0,New,Web
+Question about subscription plans,General,Low,0,New,Email
+Billing address needs updating,Billing,Medium,4,Working,Phone
+Need help navigating the dashboard,General,Low,6,Working,Phone
+Page won't load,Technical,Low,4,Working,Web
+Question about subscription plans,General,Low,1,New,Email
+Refund not received yet,Billing,High,5,Working,Email
+Question about invoice amount,Billing,Low,2,Working,Phone
+Feature not working as expected,Technical,High,6,Working,Phone
+Billing address needs updating,Billing,Medium,5,Working,Phone
+Duplicate charge on my card,Billing,Medium,4,Working,Email
+Page won't load,Technical,High,10,Working,Email
+How do I update my email address,General,Low,6,Working,Web
+Feature not working as expected,Technical,Medium,6,Working,Web
+Billing address needs updating,Billing,Low,6,Working,Phone
+How do I update my email address,General,Medium,2,Working,Email
+Mobile app freezing on startup,Technical,Medium,6,Working,Email
+Payment declined at checkout,Billing,High,8,Working,Web
+Payment declined at checkout,Billing,High,9,Working,Phone
+Refund not received yet,Billing,High,10,Working,Web
+Duplicate charge on my card,Billing,Low,3,Working,Phone
+Page won't load,Technical,High,7,Working,Email
+Can't reset my password,Technical,Medium,9,Working,Email
+Question about invoice amount,Billing,High,9,Working,Phone
+Need help navigating the dashboard,General,High,6,Working,Phone
+Where can I find my order history,General,Low,1,New,Phone
+Refund not received yet,Billing,Medium,0,New,Web
+Mobile app freezing on startup,Technical,Low,6,Working,Phone
+Error message when saving changes,Technical,Low,0,New,Web
+Need help navigating the dashboard,General,High,8,Working,Email
+Payment declined at checkout,Billing,Medium,2,Working,Web
+Billing address needs updating,Billing,High,6,Working,Email
+Mobile app freezing on startup,Technical,High,10,Working,Phone
+Where can I find my order history,General,Low,2,Working,Phone
+Question about subscription plans,General,Medium,0,New,Email
+Page won't load,Technical,Medium,6,Working,Phone
+Page won't load,Technical,High,4,Working,Email
+Can't reset my password,Technical,Medium,3,Working,Phone
+Question about subscription plans,General,High,7,Working,Web
+Question about subscription plans,General,Low,8,Working,Email
+Question about account settings,General,High,6,Working,Web
+Duplicate charge on my card,Billing,High,9,Working,Phone
+General feedback about the product,General,Medium,1,New,Email
+Billing address needs updating,Billing,Medium,2,Working,Web
+Need help navigating the dashboard,General,Medium,9,Working,Phone
+How do I update my email address,General,High,0,New,Phone
+Page won't load,Technical,Low,0,New,Email
+Feature not working as expected,Technical,High,7,Working,Email
+Page won't load,Technical,Medium,2,Working,Web
+Question about invoice amount,Billing,Low,0,New,Web
+Payment declined at checkout,Billing,High,5,Working,Web
+Can't reset my password,Technical,High,3,Working,Email
+Question about account settings,General,Low,1,New,Email
+Question about subscription plans,General,High,7,Working,Phone
+Question about subscription plans,General,Low,10,Working,Email
+General feedback about the product,General,Low,4,Working,Phone
+Refund not received yet,Billing,High,8,Working,Web
+App crashes on login,Technical,High,10,Working,Phone
+Payment declined at checkout,Billing,High,7,Working,Email
+Can't reset my password,Technical,Low,2,Working,Web
+Payment declined at checkout,Billing,Low,0,New,Phone
+Question about subscription plans,General,High,7,Working,Email
+Billing address needs updating,Billing,Medium,9,Working,Email
+App crashes on login,Technical,Medium,6,Working,Phone
+Question about subscription plans,General,Medium,2,Working,Web
+Duplicate charge on my card,Billing,High,5,Working,Phone
+Question about subscription plans,General,Low,1,New,Email
+Billing address needs updating,Billing,Low,0,New,Web
+Can't reset my password,Technical,Medium,10,Working,Phone
+General feedback about the product,General,High,7,Working,Email
+Duplicate charge on my card,Billing,High,7,Working,Phone
+Error message when saving changes,Technical,Low,10,Working,Email
+Payment declined at checkout,Billing,High,3,Working,Phone
+Payment declined at checkout,Billing,Medium,1,New,Phone
+Feature not working as expected,Technical,Medium,9,Working,Phone
+Mobile app freezing on startup,Technical,High,2,Working,Phone
+Page won't load,Technical,High,6,Working,Email
+Page won't load,Technical,Low,5,Working,Web
+How do I update my email address,General,High,6,Working,Email
+General feedback about the product,General,Low,0,New,Email
+Error message when saving changes,Technical,Medium,2,Working,Phone
+How do I update my email address,General,Low,1,New,Phone
+App crashes on login,Technical,Low,3,Working,Web
+Refund not received yet,Billing,High,7,Working,Email
+Feature not working as expected,Technical,Low,1,New,Web
