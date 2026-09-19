@@ -66,9 +66,8 @@ for i in range(NUM_ROWS):
 # ---- Write to CSV ----
 fieldnames = ["Subject", "Category__c", "Priority", "Days_Open__c", "Status", "Origin"]
 
-with open( "synthetic_cases.csv", "w", newline="", encoding="utf-8") as f:
-    writer = csv.DictWriter(f, fieldnames=fieldnames)
+with open("data/synthetic_cases.csv", "w", newline="", encoding="utf-8") as f:    writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Done! Created synthetic_cases.csv with {NUM_ROWS} synthetic support cases.")
+print(f"Done! Created data/synthetic_cases.csv with {NUM_ROWS} synthetic support cases.")

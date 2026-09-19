@@ -27,7 +27,7 @@ print("Connected to Salesforce successfully.")
 
 # Read the CSV file 
 records = []
-with open( "synthetic_cases.csv", newline="", encoding="utf-8") as f:
+with open("data/synthetic_cases.csv", newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     for row in reader:
         records.append({
